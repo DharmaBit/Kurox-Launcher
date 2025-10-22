@@ -160,11 +160,6 @@ The APK will be generated in `app/release/app-release.apk`
 | Accompanist | 0.36.0 | Compose utilities |
 | Room | 2.6.1 | Database (prepared for future use) |
 
-## 🐛 Known Issues
-
-- App icons may take a moment to load on first launch
-- System apps filter requires app restart to take full effect
-
 ## 🔮 Future Enhancements
 
 - [ ] Widget support
@@ -177,24 +172,6 @@ The APK will be generated in `app/release/app-release.apk`
 - [ ] Calendar integration
 - [ ] App usage statistics
 - [ ] Custom gesture controls
-
-## 🔐 Privacy Policy
-
-Kurox Launcher respects your privacy:
-
-- **No Data Collection**: We don't collect any personal data
-- **Local Storage Only**: All settings are stored locally on your device
-- **No Internet Required**: The launcher works completely offline
-- **Open Source**: Code is available for review
-- **No Ads**: Completely ad-free experience
-- **No Tracking**: No analytics or tracking services
-
-### Permissions Used
-
-- `QUERY_ALL_PACKAGES`: Required to display installed apps
-- `SET_WALLPAPER`: For future wallpaper features (optional)
-- `VIBRATE`: For haptic feedback (optional)
-- `EXPAND_STATUS_BAR`: For notification shade access (optional)
 
 ## 📄 License
 
