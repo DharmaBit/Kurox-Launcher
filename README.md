@@ -1,4 +1,4 @@
-# Kurox Launcher v1.0.0
+# Kurox Launcher
 
 A modern, minimalist Android launcher with beautiful UI/UX design, built with Jetpack Compose and Kotlin.
 
