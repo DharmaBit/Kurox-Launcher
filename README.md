@@ -2,7 +2,6 @@
 
 A modern, minimalist Android launcher with beautiful UI/UX design, built with Jetpack Compose and Kotlin.
 
-![Build](https://img.shields.io/github/actions/workflow/status/username/kurox/android-build.yml?label=Build)
 ![License](https://img.shields.io/github/license/username/kurox)
 ![Release](https://img.shields.io/github/v/release/username/kurox)
 
