@@ -17,7 +17,7 @@ A modern, minimalist Android launcher with beautiful UI/UX design, built with Je
 - 🎬 **Smooth Animations** - Fluid transitions and micro-interactions
 - 📲 **App Drawer** - Organized alphabetical list of all apps
 - 📝 **App Labels Toggle** - Show or hide app names
-- ** AND ALL INTRESTING FEATURES**
+- **AND ALL INTRESTING FEATURES**
 
 ## 📋 Requirements
 
